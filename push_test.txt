@@ -1,6 +1,2 @@
 push test!
-<<<<<<< HEAD
 4
-=======
-3
->>>>>>> bb1d87e7ac6463698ba2b3aafd1aff384cf9f08c
